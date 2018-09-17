@@ -1,0 +1,20 @@
+
+
+         Title:    |_Book_Title__________________________|
+     
+         Price:    |_Price___|
+     
+       Authors:    Provided Author Selection Component
+
+    Description:   |--------------------------------------|
+                   |  Description                         |
+                   |                                      |
+                   |                                      |
+                   |                                      |
+                   |                                      |
+                   |--------------------------------------|
+
+    Cover Photo:  |Upload Image|
+
+
+    |Submit|

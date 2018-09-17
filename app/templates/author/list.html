@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+{% block main %}
+<main>
+    <ul>
+        {% for author in authors %}
+        <li>{{ author.name }} : {{ author.books.last.title }}</li>
+        {% endfor %}
+    </ul>
+    {% include 'components/paginate.html' %}
+</main>
+{% endblock main %}

@@ -1,0 +1,14 @@
+{% extends 'base.html' %}{% load static %}
+{% block main %}
+
+<main>
+    <h1>Books</h1>
+    <ul>
+        {% for book in books %}
+        <li>{{ book.title }}</li>
+        {% endfor %}
+    </ul>
+    {% include 'components/paginate.html' %}
+</main>
+
+{% endblock main %}

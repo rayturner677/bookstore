@@ -1,0 +1,22 @@
+
+    Book Title
+    
+    by Book Authors
+
+    |----------------------------------------|
+    |                                        |
+    |                                        |
+    |                                        |
+    |                                        |
+    |            Large Book Image            |
+    |                                        |
+    |                                        |
+    |                                        |
+    |                                        |
+    |                                        |
+    |----------------------------------------|
+
+    $ Price
+
+    Description:
+    Book Description

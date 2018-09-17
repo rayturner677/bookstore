@@ -1,0 +1,20 @@
+
+
+         Title:    |_____________________________________|
+     
+         Price:    |________|
+     
+       Authors:    Provided Author Selection Component                   
+
+    Description:   |--------------------------------------|
+                   |                                      |
+                   |                                      |
+                   |                                      |
+                   |                                      |
+                   |                                      |
+                   |--------------------------------------|
+
+    Cover Photo:  |Upload Image|
+
+
+    |Submit|
